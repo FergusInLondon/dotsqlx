@@ -4,8 +4,8 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/gchaincl/dotsql"
 	"github.com/jmoiron/sqlx"
+	"github.com/qustavo/dotsql"
 )
 
 // Preparerx is an interface used by Preparex.

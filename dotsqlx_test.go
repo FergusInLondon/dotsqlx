@@ -5,8 +5,8 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/gchaincl/dotsql"
 	"github.com/jmoiron/sqlx"
+	"github.com/qustavo/dotsql"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
